@@ -1,0 +1,72 @@
+Vending machine perspective
+
+Count money when object is recived through coin slot
+Recive button imputs for X and y axis values for position of chosen snack
+Check if money inserted is suffcient
+  If amount is less than price of good at X'Y then reject transaction
+  If amount is equal or greater than price of good at X'Y accept transaction
+    Dispence good at X'Y
+    Dispence money equal to the difference of the amount inserted and the price of the good
+   
+For checking if the correct amount of money is paid, an if else statement could be used.
+
+Cookie glass problem
+1.
+Remove the cookie
+break the cookie into two pieces
+Try to dip the cookie again
+If it cannot be dipped, repeat steps
+2.
+Find the length of the cookies edge from the profile where it is shortest
+Find the diameter of the glass where it is most narrow
+If the length of the cookie is larger than the diameter of the narrowest point of the glass break the cookie in two
+continue breaking the cookie until length of the cookie is larger than the diameter of the narrowest point of the glass
+3.
+Though I'm not sure if its necessary for there to be an app for this purpose, an app that logs the narrowest diameter of glasses and
+shortest edge profiles of cookies, to see if they fit it can just see if the cookie is shorter than the glass, in which case it can reach the milk.
+
+Curry
+1.
+obtain a set of chopsticks
+Position chopsticks so that the spoon is in between the two sticks
+Try to grab spoon with sticks
+  If unsuccessful repeat step
+remove spoon from curry
+2.
+obtain spoon for curry
+If spoon has a hook handle, use
+If spoon is long enough for handle to protrude a notable amount when left in curry container to rest on its opening, use
+Use spoon with caution
+3.
+A robotic arm can be used for getting the spoon out of the curry, and keeping the spoon out of the curry in the first place as the robot would not drop the spoon unless told to do so.
+
+Parking
+1.
+Ponder the possibility to parallel park perpendicular to the outrageously parked vehicle
+  exercise self restraint
+continue driving around parking lot
+  If there is an empty parking slot park
+  If there is a car about to vacate a parking spot, wait
+  If there is no parking continue driving
+2.
+Install posts where parking lines intersect
+  if unsuccessful, install fenceing on parking lines
+    if unsuccessful, accept defeat
+      if unsuccessful, place hollow tyre caltrops on parking lines
+3.
+Even now, new cars often have cameras and software to help people park their cars properly. If or not they choose to use them is a different matter.
+
+Bags
+1.
+Look for other areas to sit
+if unsuccessful, find somewhere to stand with handlebar
+  if unsuccessful, ask owner to remove bags
+    if unsuccessful and won't cause trouble, ask bus driver to deal with owner
+      if unworthy of time, stand without handlebar or switch buses
+2.      
+Introduce policy for riders that they can not take up more than one seat per person if asked to make room for others.
+  if unsuccessful, make the policy more persuasive with repercussions of a financial nature
+    if unsuccessful, make the policy more persuasive with repercussions of a legal nature
+3.   
+Introduce storage on buses, perhaps overhead, if that doesn't work you can change the seats to act against this. By adding armrests it becomes difficult for 
+one seat hoarder to claim more than two seats, you can also make the bottoms of the seats fold upward when not in use so as to be less inviting as the seat must be physically opened.
