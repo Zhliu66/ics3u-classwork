@@ -1,9 +1,10 @@
 colour = input("whats your favourie colour?")
 print(colour + "?, thats my favourite colour too! ")
 
-cans = input("How many cans are there per pack?" )
-packs = input("How many packs are there?")
-print("There are" + (int(cans) * int(packs)) + "cans in total")
+cans = int(input("How many cans are there per pack?" ))
+packs = int(input("How many packs are there?"))
+total = str(cans * packs)
+print("There are " + total + " cans in total")
 
 print("what is the length of x in meters?")
 x = input(int())
